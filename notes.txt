@@ -1,0 +1,3 @@
+"This is a new file created from the terminal!".
+
+"Tring to update second time from the terminal!".
